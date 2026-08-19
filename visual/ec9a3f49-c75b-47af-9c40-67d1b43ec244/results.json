@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "page_id": 3,
+      "status": "new",
+      "diff_pct": null,
+      "candidate_path": "3.png",
+      "diff_path": null,
+      "candidate_sha": "161f150453730ed92b92ef8e7b3a7033aec1da133f3ea1d6fbf3a3e234644519"
+    },
+    {
+      "page_id": 2,
+      "status": "new",
+      "diff_pct": null,
+      "candidate_path": "2.png",
+      "diff_path": null,
+      "candidate_sha": "526da5881fdbe5187e8a28f62c0e94a12a7c13321411b7200cb77a35d03b8e0e"
+    },
+    {
+      "page_id": 1,
+      "status": "new",
+      "diff_pct": null,
+      "candidate_path": "1.png",
+      "diff_path": null,
+      "candidate_sha": "2cfaa2324a5f622c58cf7ac187240e44fd263ab4c2ae4047e567ccc69da570e5"
+    }
+  ]
+}
