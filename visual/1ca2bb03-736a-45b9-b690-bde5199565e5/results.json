@@ -1,0 +1,20 @@
+{
+  "results": [
+    {
+      "page_id": 3,
+      "status": "diff",
+      "diff_pct": 0.091,
+      "candidate_path": "3.png",
+      "diff_path": "3-diff.png",
+      "candidate_sha": "296da0895bd78336ad4d8c5ab94fe0d5c42736ef4550ba68244e2185e20c8e92"
+    },
+    {
+      "page_id": 2,
+      "status": "diff",
+      "diff_pct": 0.409,
+      "candidate_path": "2.png",
+      "diff_path": "2-diff.png",
+      "candidate_sha": "7812dccc77d60afa4ab5bc46eb8a310891929e8d0da952194e2586d4e53156d1"
+    }
+  ]
+}
